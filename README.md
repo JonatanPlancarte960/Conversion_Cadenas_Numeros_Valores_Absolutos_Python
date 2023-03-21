@@ -1,0 +1,2 @@
+# Conversion de Canenas, Numeros y Valores Absolutos en Python
+Este Programa almacena en Variables la entrada que el usuario Proporcione y te muestra como salida un valor absoluto, se puede modificar el codiogo para que se adapte a las necesidades de un proyecto.
